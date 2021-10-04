@@ -11,3 +11,7 @@ npx hardhat node
 node scripts/deploy.js
 npx hardhat help
 ```
+
+### Crowdstaking factory deployments
+
+* Shibuya: `0x844359A5fA6B309dB5FEC5dc06289668f1500CBE`
