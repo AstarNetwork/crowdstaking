@@ -1,0 +1,33 @@
+{
+    "name": "crowdstake",
+    "version": "0.1.0",
+    "description": "Crowdfunding for collator staking.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "akru",
+    "license": "Apache-2.0",
+    "devDependencies": {
+        "@openzeppelin/contracts": "^4.3.2",
+        "@nomiclabs/hardhat-ethers": "^2.0.0",
+        "@nomiclabs/hardhat-waffle": "^2.0.0",
+        "@symfoni/hardhat-react": "^0.1.14",
+        "@typechain/ethers-v5": "^4.0.0",
+        "@types/chai": "^4.2.14",
+        "@types/mocha": "^8.0.4",
+        "@types/node": "^14.14.9",
+        "chai": "^4.2.0",
+        "ethereum-waffle": "^3.2.0",
+        "ethers": "^5.0.21",
+        "hardhat": "^2.6.0",
+        "hardhat-deploy": "^0.7.0",
+        "hardhat-deploy-ethers": "^0.3.0-beta.11",
+        "hardhat-typechain": "^0.3.5",
+        "ts-generator": "^0.1.1",
+        "ts-morph": "^9.0.0",
+        "ts-node": "^9.0.0",
+        "typechain": "^4.0.1",
+        "typescript": "^4.1.2"
+    }
+}
